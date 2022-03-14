@@ -2,7 +2,7 @@
     overflow: hidden;
     position: relative;
     height: 100%;
-    width: 90%;
+    width: 60%;
   }
   
   .video-responsive iframe {
@@ -11,7 +11,3 @@
     position: relative;
   }
   
-  .secondSection {
-   height: 100vh;
-   width: 100vw; 
-  }

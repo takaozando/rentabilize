@@ -7,18 +7,18 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color: black;
-    padding-left: 10%;
-    padding-right: 10%;
-    height: 100vh;
+    background-image: linear-gradient(to bottom , black, #8409e8);
+ 
+    height: 90vh;
 }
 
 .headerContainer {
     display: flex;
     height: 10%;
-    background-color: black;
     justify-content: center;
-    padding: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
 }
 
 .headerLogo {
@@ -30,12 +30,24 @@
     position: relative;
     display: flex;
     justify-content: center;
-    width: 90%;
+    width: 100%;
     height: 60%;
-    padding: 20px;
-    
+    margin-top: 5%;
 }
 
-.videoContent {
-    height: 100%;
-} 
+.imgTriangulo {
+    position: relative;
+    top: -13%;
+    width: 250px;
+}
+
+
+.secondSection {
+    height: 100vh;
+    width: 100vw; 
+    font-size: 200%;
+    font-family: Eurostile, sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
